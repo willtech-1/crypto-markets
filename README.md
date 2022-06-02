@@ -7,7 +7,6 @@ This application shows the crypto currency market cap and how the first 100 coin
 ## Functionalities
 First 100 list of crypto currencies.<br />
 User can select whether they want to view prices in ZAR or USD.<br />
-Only the first 10 appear on the screen.<br />
 User can select and see how the individual coin has been performing.<br />
 User is able to search for a coin they want to see
 
